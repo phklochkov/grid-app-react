@@ -1,0 +1,4 @@
+.grid .grid-row {
+  display: flex;
+  flex-direction: row;
+  padding: 5px 0; }
