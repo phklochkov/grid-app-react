@@ -1,5 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+# use sass
+src/**/*.css
+
 # dependencies
 /node_modules
 
@@ -15,9 +18,6 @@
 .env.development.local
 .env.test.local
 .env.production.local
-
-# generate css with sass
-/src/**/*.css
 
 npm-debug.log*
 yarn-debug.log*
