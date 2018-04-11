@@ -5,6 +5,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: -webkit-grab;
+  cursor: grab;
   &.over {
     background-color: rgba(0, 170, 237, 0.8);
   }
