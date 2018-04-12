@@ -11,6 +11,8 @@ const getStyle = p => ({
 })
 
 export const GridItem = props => {
+  const isDraggable = !!props.title
+
   const onDragStart = e => {
     e.stopPropagation()
     e.dataTransfer.setData('text/grid', props.id)
@@ -30,8 +32,8 @@ export const GridItem = props => {
   }
 
   return (
-    <div className="grid-item" style={getStyle(props)}
-      draggable={true} onDragStart={onDragStart} onDragOver={e => e.preventDefault()}
+    <div className={`grid-item ${isDraggable ? 'draggable' : ''}`} style={getStyle(props)}
+      draggable={isDraggable} onDragStart={onDragStart} onDragOver={e => e.preventDefault()}
       onDragEnter={onDragEnter} onDragLeave={onDragLeave} onDrop={onDrop}>
       <div className="grid-item-title">{props.title || ''}</div>
     </div>
