@@ -6,12 +6,17 @@
   justify-content: center;
   align-items: center;
 
+  > .grid-item-title {
+    pointer-events: none;
+  }
+
   &.draggable {
     cursor: -webkit-grab;
     cursor: grab;
   }
 
   &.over {
-    background-color: rgba(0, 170, 237, 0.8);
+    background-color: #28abe3;
+    box-shadow: 0px 0px 5px 3px #28abe3;
   }
 }
