@@ -21,12 +21,12 @@
   },
   {
     "id": 5,
-    "color": "#ffffff",
+    "color": "#a7dbdb",
     "title": "Item 5"
   },
   {
     "id": 6,
-    "color": "#cccccc",
+    "color": "#d96459",
     "title": "Item 6"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "id": 10,
-    "color": "#00afee",
+    "color": "#1fda9a",
     "title": "Item 10"
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "id": 20,
-    "color": "#ffffff",
+    "color": "#a7dbdb",
     "title": "Item 15"
   },
   {
     "id": 21,
-    "color": "#cccccc",
+    "color": "#d96459",
     "title": "Item 16"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "id": 25,
-    "color": "#00afee",
+    "color": "#1fda9a",
     "title": "Item 20"
   },
   {
@@ -121,12 +121,12 @@
   },
   {
     "id": 35,
-    "color": "#ffffff",
+    "color": "#a7dbdb",
     "title": "Item 25"
   },
   {
     "id": 36,
-    "color": "#cccccc",
+    "color": "#d96459",
     "title": "Item 26"
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "id": 40,
-    "color": "#00afee",
+    "color": "#1fda9a",
     "title": "Item 30"
   },
   {
@@ -171,12 +171,12 @@
   },
   {
     "id": 50,
-    "color": "#ffffff",
+    "color": "#a7dbdb",
     "title": "Item 35"
   },
   {
     "id": 51,
-    "color": "#cccccc",
+    "color": "#d96459",
     "title": "Item 36"
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "id": 55,
-    "color": "#00afee",
+    "color": "#1fda9a",
     "title": "Item 40"
   },
   {
@@ -221,12 +221,12 @@
   },
   {
     "id": 65,
-    "color": "#ffffff",
+    "color": "#a7dbdb",
     "title": "Item 45"
   },
   {
     "id": 66,
-    "color": "#cccccc",
+    "color": "#d96459",
     "title": "Item 46"
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "id": 70,
-    "color": "#00afee",
+    "color": "#1fda9a",
     "title": "Item 50"
   },
   {
@@ -271,12 +271,12 @@
   },
   {
     "id": 80,
-    "color": "#ffffff",
+    "color": "#a7dbdb",
     "title": "Item 55"
   },
   {
     "id": 81,
-    "color": "#cccccc",
+    "color": "#d96459",
     "title": "Item 56"
   },
   {
@@ -296,7 +296,7 @@
   },
   {
     "id": 85,
-    "color": "#00afee",
+    "color": "#1fda9a",
     "title": "Item 60"
   },
   {
@@ -321,12 +321,12 @@
   },
   {
     "id": 95,
-    "color": "#ffffff",
+    "color": "#a7dbdb",
     "title": "Item 65"
   },
   {
     "id": 96,
-    "color": "#cccccc",
+    "color": "#d96459",
     "title": "Item 66"
   },
   {
@@ -346,7 +346,7 @@
   },
   {
     "id": 100,
-    "color": "#00afee",
+    "color": "#1fda9a",
     "title": "Item 70"
   },
   {
@@ -371,12 +371,12 @@
   },
   {
     "id": 110,
-    "color": "#ffffff",
+    "color": "#a7dbdb",
     "title": "Item 75"
   },
   {
     "id": 111,
-    "color": "#cccccc",
+    "color": "#d96459",
     "title": "Item 76"
   },
   {
@@ -396,7 +396,7 @@
   },
   {
     "id": 115,
-    "color": "#00afee",
+    "color": "#1fda9a",
     "title": "Item 80"
   },
   {
@@ -421,12 +421,12 @@
   },
   {
     "id": 125,
-    "color": "#ffffff",
+    "color": "#a7dbdb",
     "title": "Item 85"
   },
   {
     "id": 126,
-    "color": "#cccccc",
+    "color": "#d96459",
     "title": "Item 86"
   },
   {
@@ -446,7 +446,7 @@
   },
   {
     "id": 130,
-    "color": "#00afee",
+    "color": "#1fda9a",
     "title": "Item 90"
   },
   {
@@ -471,12 +471,12 @@
   },
   {
     "id": 140,
-    "color": "#ffffff",
+    "color": "#a7dbdb",
     "title": "Item 95"
   },
   {
     "id": 141,
-    "color": "#cccccc",
+    "color": "#d96459",
     "title": "Item 96"
   },
   {
@@ -496,7 +496,7 @@
   },
   {
     "id": 145,
-    "color": "#00afee",
+    "color": "#1fda9a",
     "title": "Item 100"
   }
 ]
